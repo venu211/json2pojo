@@ -9,4 +9,4 @@ Steps:
 3. Run void main method
 4. Find your pojo classes in (src\main\java\com\util\json2pojo\model\pojo)
 
-###### Ref: https://dzone.com/articles/converting-json-to-pojos-using-java``
+###### Ref: https://dzone.com/articles/converting-json-to-pojos-using-java
