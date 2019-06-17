@@ -1,0 +1,22 @@
+{
+  "carrierList":[
+    {
+      "carrier":"",
+      "manufracturerList":[
+        {
+          "manufracturer":"",
+          "deviceList":[
+            {
+              "device":"",
+              "capacityList":[
+                {
+                  "capacity":""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
