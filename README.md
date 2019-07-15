@@ -9,4 +9,10 @@ Steps:
 3. Run void main method
 4. Find your pojo classes in (src\main\java\com\util\json2pojo\model\pojo)
 
+
+***Technologies:***
+1. Spring Boot
+2. Java 1.8
+
+
 ###### Ref: https://dzone.com/articles/converting-json-to-pojos-using-java
